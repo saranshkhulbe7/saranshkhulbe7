@@ -14,7 +14,7 @@
   <img src="https://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
 
 <a href="https://www.codechef.com/users/saranshkhulbe7">
-  <img src="https://1.bp.blogspot.com/-svSVcY5RCZ0/WczaWkmnnuI/AAAAAAAABhQ/rrGYYYN_cJsbufXTXpd50CJc8-vJ4dZqQCLcBGAs/s1600/fb-image-icon.png" height="1%" ; width="5%" ; margin-left:20px;></img></a>
+  <img src="https://1.bp.blogspot.com/-svSVcY5RCZ0/WczaWkmnnuI/AAAAAAAABhQ/rrGYYYN_cJsbufXTXpd50CJc8-vJ4dZqQCLcBGAs/s1600/fb-image-icon.png" height="1%" ; width="6%" ; margin-left:20px;></img></a>
 
 <a href="https://www.hackerrank.com/saranshkhulbe7">
   <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
