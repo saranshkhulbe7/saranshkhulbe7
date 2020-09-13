@@ -8,7 +8,7 @@
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/saransh-khulbe-5ab342189/">
-     <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="4%"; width="4%"; margin-left:20px;></img></a>
+     <img src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" height="5%"; width="5%"; margin-left:20px;></img></a>
 
 <a href="https://twitter.com/KhulbeSaransh">
   <img src="https://www.flaticon.com/svg/static/icons/svg/889/889147.svg" height="5%" ; width="5%" ; margin-left:0px;></img></a>   
