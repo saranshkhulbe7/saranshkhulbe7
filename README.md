@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saranshkhulbe7&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Saransh's      github stats"/>
 
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshkhulbe7&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshkhulbe7&theme=gruvbox&layout=compact" />
 
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
 
@@ -15,3 +15,6 @@
   
 <a href="https://www.hackerrank.com/saranshkhulbe7">
   <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
+  
+  ##
+   <img src="https://komarev.com/ghpvc/?username=saranshkhulbe7" width=160px/>
