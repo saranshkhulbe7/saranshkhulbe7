@@ -17,7 +17,7 @@
   <img src="https://1.bp.blogspot.com/-svSVcY5RCZ0/WczaWkmnnuI/AAAAAAAABhQ/rrGYYYN_cJsbufXTXpd50CJc8-vJ4dZqQCLcBGAs/s1600/fb-image-icon.png" height="1%" ; width="6%" ; margin-left:20px;></img></a>
 
 <a href="https://www.hackerrank.com/saranshkhulbe7">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="5%" ; width="5%" ;></img></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="7%" ; width="7%" ;></img></a>
   
   ##
    <img src="https://komarev.com/ghpvc/?username=saranshkhulbe7" width=160px/>
